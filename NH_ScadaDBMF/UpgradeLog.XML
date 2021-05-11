@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ScadaDBMF">
+</Property><Property Name="方案檔" Value="D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\ScadaDBMF.sln">
+</Property><Property Name="使用者選項檔" Value="D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\ScadaDBMF.suo">
+</Property><Property Name="Date" Value="2012年11月14日">
+</Property><Property Name="Time" Value="11:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ScadaDBMF.sln" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\ScadaDBMF.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ScadaDBMF.suo" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\ScadaDBMF.suo">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="ScadaDBMF.csproj" Description="專案檔已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\ScadaDBMF.csproj">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="ScadaDBMF.csproj.user" Description="專案使用者檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\ScadaDBMF.csproj.user">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="AssemblyInfo.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="CCI_Form.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\CCI_Form.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="CIntFilterType.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\CIntFilterType.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="CommPort.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\CommPort.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="IntelligentMethod.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\IntelligentMethod.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="LoadPort.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\LoadPort.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="Ovline_sync.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\Ovline_sync.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="PortStatus.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\PortStatus.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="TaskDBG.cs" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\TaskDBG.cs">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="App.ico" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="sgp.ico" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\sgp.ico">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="CCI_Form.resx" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\CCI_Form.resx">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="PortStatus.resx" Description="檔案已成功備份為 D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\Backup\PortStatus.resx">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="ScadaDBMF.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ScadaDBMF" Source="ScadaDBMF.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ScadaDBMF.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ScadaDBMF.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ScadaDBMF" Source="ScadaDBMF.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

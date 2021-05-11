@@ -1,0 +1,297 @@
+;ScadaDBMF (Scada DataBase Mover and Filter)
+;
+;  Move DB
+;  From   FrontEnd   1. [SourceSQLServer]
+;  To     RTDB       2. [RTDBSQLServer]
+;  And to MainDB     3. [MainDBSQLServer]
+;  And filter to     4. [AlarmDBSQLServer]
+;
+;
+;
+[Task]
+ Name = ScadaRXMF
+ Password = 5
+[Local]
+ ;IP=10.65.10.33
+ IP=127.0.0.1
+ Port = 3051
+[Server]
+ IP = 127.0.0.1
+ Port = 399
+;=TaskState===============================
+; TaskName: Window Text
+; LineCode: Line Name of this AP in OvLine
+;=========================================
+[TaskState]
+ TaskName = NH_ScadaDBMF
+ LineCode = ID.SCA.AP.ScadaDBMF_NHTEST
+;=SourceSQLServer=========================
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; RXTable: RXTable Name
+;=========================================
+[SourceSQLServer]
+ IP = 10.65.10.31
+ ;IP = 127.0.0.1
+ DataBase = FEG9_Neihu
+ RXTable =Neihu_RX
+;=RTDBSQLServer===========================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; RXTable: RX Table Name
+; OvTable: OvLine Table Name
+;=========================================
+[RTDBSQLServer]
+ DBEnable = true
+ ;DBEnable = false
+ ;IP = 10.65.10.33
+ IP = 127.0.0.1
+ DataBase = RTDB_SCADA
+ RXTable = RTDB_FENH_RX
+ OvTable = OvLine
+;=MainDBSQLServer==========================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; RXTable: Working Table Name
+;=========================================
+[MainDBSQLServer]
+ DBEnable = True
+ ;DBEnable = False
+ ;IP = 10.65.10.6
+ IP = 127.0.0.1
+ DataBase = trtc_CTL
+ RXTable = MainDB_NhRx
+;=AlarmDBSQLServer========================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; RXTable: Working Table Name
+;=========================================
+[AlarmDBSQLServer]
+ DBEnable = True
+; DBEnable = False
+ ;IP = 10.65.10.6
+ IP = 127.0.0.1
+ DataBase = trtc_ETL
+ RXTable = AlarmList_new
+;=IntelligentDBSQLServer==================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+;=========================================
+[IntelligentDBSQLServer]
+ IP = 10.65.10.6
+ ;IP = 127.0.0.1
+ DataBase = TRTC_ETL
+;=NetDCDBSQLServer========================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; Table: Working Table Name
+;=========================================
+[NetDCDBSQLServer]
+ DBEnable = True
+ ;IP = 10.65.10.33
+ IP = 127.0.0.1
+ DataBase = RTDB_SCADA
+ Table = Scada_NetDC
+ DBEnable_History = True
+ DBEnable_LastOne = True
+ Table_LastOne = Scada_NetDC_LastOne
+;=EarthQuakeDBSQLServer===================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; Table: Working Table Name
+;=========================================
+[EarthQuakeDBSQLServer]
+ DBEnable = false
+ ;IP = 10.65.10.33
+ IP = 127.0.0.1
+ DataBase = RTDB_SCADA
+ Table = EarthQuake
+;=========================================
+;Hsinson 961009 add
+;
+[AtsEventDBSQLServer]
+ DBEnable = False
+ ;IP = 10.65.10.33
+ IP = 127.0.0.1
+ DataBase = RD_AtsLogger
+ Table = AtsEvent
+;=========================================
+;Hsinson 961227 add
+ TwcTable = TWC
+ TwcDBEnable = True
+;
+[WinSysEvtDBSQLServer]
+ DBEnable = True
+ ;IP = 10.65.10.33
+ IP = 127.0.0.1
+ DataBase = WinSystemEventLogger
+ Table = WinSysEvt
+;=========================================
+;=PmsDBSQLServer========================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; Table: Working Table Name
+;=========================================
+[PmsDBSQLServer]
+ DBEnable = True
+ ;IP = 10.65.10.33
+ IP = 127.0.0.1
+ DataBase = RTDB_SCADA
+ Table = ProcessMon
+ DBEnable_History = True
+ DBEnable_LastOne = True
+ Table_LastOne = ProcessMon_LastOne
+;=========================================
+[Need Message]
+ Content = FCCRCV FCCSND FSRVDN FRAWC FSTIME FSTMR FSECND FHOUR FMONRQ 0
+[AUTO]
+;SafeButtom = Open
+ SafeButtom = Close
+ AutoPolling = false
+ RAWType = FT810
+;RAWType = DTS
+ Simulation = Receive
+;Simulation = Send
+ AutoPack = true
+ AutoComPortOpen = true
+[CCIFiles]
+ LOG = D:\Scada\Mon\Log
+ LogFileName = ScadaDbmfAts_
+ LogFileExt = LOG
+ TXT = TXT
+
+;Hsinson970528 add
+ MonFilePath = D:\Scada\Mon
+ MonFileName = ScadaDbmfAtsAlarm
+ MonFileExt = TXT
+
+[ComPortFile]
+ ComPortFile = ScadaRXPort.txt
+[Param]
+;
+;￥H?U?°CCI?§°??
+;
+ AutoReceive = 60000
+ AutoPolling = 3000
+ AutoCFJudge = 200
+ DoMsgInterval = 3000
+ DoMsgLimite = 3200
+ SendToTBCInterval = 500
+ SendToTBCLimite = 1000
+ PlayBackOffset = 0
+;
+;￥H?U?°TBC?§°??
+;
+ DebugMode = false
+ RecvTimerSleepTimeout = 600
+ SendTimerSleepTimeout = 600
+ SendOuterLoopLimit = 1
+ SendInerLoopLimit = 400
+ SendErrLimit = 5
+ ProcessTimerSleepTimeout = 100
+ LineLimit = 500
+ ConnectionTimerTimeout = 100
+ OnlineTimerTimeout = 2000
+ PollErrLimit = 5
+ ReadErrLimit = 5
+ StartPollingLimit = 5
+ ReadOuterLoopLimit = 1
+ ReadInerLoopLimit = 400
+ TraReg = True
+ SaveCommandLimit = 20
+ AutoConnect = true
+ ShowDBGForm = false
+[DBGFiles]
+ LogFileDir = D:\Scada\Mon\Log
+ LogFileName = ScadaDBMF_G9DBG
+ LogFileExt = log
+ IniFileDir = TXT
+ IniTxtFileName = CCI
+ IniFileExt = ini
+ 
+
+;=RTDBSQLServer - OneDay==================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; RXTable: RX Table Name
+; OvTable: OvLine Table Name
+;=========================================
+[RTDBSQLServerOneDay]
+ DBEnable = false
+ ;IP = 10.65.10.33
+ IP = 127.0.0.1
+ DataBase = RTDB_SCADA
+ RXTable = RTDB_FEG9_RX
+ OvTable = OvLine
+ 
+;=MainDBSQLServer - OneDay================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; RXTable: Working Table Name
+;=========================================
+[MainDBSQLServerOneDay]
+ DBEnable = True
+ ;IP = 10.65.10.6
+ IP = 127.0.0.1
+ DataBase = TRTC_CTL
+ RXTable = MainDB_NhRx
+;==   Nh_EVTDB - OneDay ==================
+; DBEnable: Enable moving data to this DB
+; IP: SourceSQLServer IP
+; DataBase: DataBase Name
+; RXTable: Working Table Name
+;=========================================
+[NhEVTDBNMoveDataOneDay]
+ DBEnable = True
+ ;IP = 10.65.10.33
+ IP = 127.0.0.1
+ DataBase = RTDB_SCADA
+ RXTable = Nh_EVTDB
+
+;dataTime型別系統自訂為23位元
+ ColTyp000 = datetime
+ ColName000 = PrintTime
+ ColLength000 = 23
+
+ ColTyp001 = varchar
+ ColName001 = Typ
+ ColLength001 = 3
+
+ ColTyp002 = varchar
+ ColName002 = Location
+ ColLength002 = 20
+
+ ColTyp003 = varchar
+ ColName003 = Reg
+ ColLength003 = 3
+
+ ColTyp004 = varchar
+ ColName004 = Pri
+ ColLength004 = 3
+
+ ColTyp005 = varchar
+ ColName005 = Ack
+ ColLength005 = 3
+
+ ColTyp006 = varchar
+ ColName006 = Act
+ ColLength006 = 3
+
+ ColTyp007 = varchar
+ ColName007 = Description
+ ColLength007 = 125
+
+
+
+
+
+

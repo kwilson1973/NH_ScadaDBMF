@@ -1,0 +1,271 @@
+D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\bin\Release\ScadaDBMF.exe
+D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\bin\Release\SYS.dll
+D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\bin\Release\TBC.dll
+D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SFI\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20121114 增加PSD判斷\原始碼\obj\Release\ScadaDBMF.exe
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\bin\Release\ScadaDBMF.exe
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\bin\Release\SYS.dll
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\bin\Release\TBC.dll
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\obj\Release\ScadaDBMF.exe
+D:\Source Code\Scada\AP\ScadaDBMF\ScadaDBMF_20130207 增加EMDS CountDown判斷\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\bin\Release\SYS.dll
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\bin\Release\TBC.dll
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\ScadaDBMF\ScadaDBMF_20130314 修正NetDC內含有na字眼時，轉換成0\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\bin\Release\SYS.dll
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\bin\Release\TBC.dll
+D:\SourceCode\WinForm\ScadaDBMF\ScadaDBMF_20130503 修正HDFFree少了一個F的問題\原始碼\obj\Release\ScadaDBMF.exe
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\ScadaDBMF.ini
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\ScadaDBMF.exe
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\SYS.dll
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\TBC.dll
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\程式碼\SCADA\ScadaDBMF\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\SYS.dll
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\TBC.dll
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\WinForm\ScadaDBMF\開發中\ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\複製 -ScadaDBMF_20130530 將ATSEvent寫入資料庫的方式改為批次寫入\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20140220 修正內湖Nh_EVTDB寫入空白，及修正cpuTemp問題\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\ScadaDBMF_20141128\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20141128 修正 AIS 及 內湖行控電腦 EventLog 欄位切割\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20150113 新增 TWC 索引\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170905 修正抓ATS USER NAME 時會產生索引長度不正確\原始碼\obj\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\ScadaDBMF.ini
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\ScadaDBMF.exe
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\SYS.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\TBC.dll
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SourceCode\SCADA\WinForm\ScadaDBMF\開發中\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\ScadaDBMF.exe
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\ScadaDBMF.ini
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\ScadaDBMF.exe
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\SYS.dll
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\bin\Release\TBC.dll
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\107IDMS\IDMS\Scada程式碼\ScadaDBMF\ScadaDBMF_20170926 新增內湖Vehicle里程數\原始碼\obj\Release\ScadaDBMF.exe
+Z:\DBMF原始碼\bin\Release\ScadaDBMF.exe.config
+Z:\DBMF原始碼\obj\Release\ScadaDBMF.exe
+Z:\DBMF原始碼\bin\Release\ScadaDBMF.ini
+Z:\DBMF原始碼\bin\Release\ScadaDBMF.exe
+Z:\DBMF原始碼\bin\Release\SYS.dll
+Z:\DBMF原始碼\bin\Release\TBC.dll
+Z:\DBMF原始碼\obj\Release\ResolveAssemblyReference.cache
+Z:\DBMF原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+Z:\DBMF原始碼\obj\Release\SCADA_RX.PortStatus.resources
+Z:\DBMF原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\107IDMS\20181120_交九測試\DBMF原始碼\bin\Release\ScadaDBMF.exe.config
+D:\107IDMS\20181120_交九測試\DBMF原始碼\obj\Release\ScadaDBMF.exe
+D:\107IDMS\20181120_交九測試\DBMF原始碼\bin\Release\ScadaDBMF.ini
+D:\107IDMS\20181120_交九測試\DBMF原始碼\bin\Release\ScadaDBMF.exe
+D:\107IDMS\20181120_交九測試\DBMF原始碼\bin\Release\SYS.dll
+D:\107IDMS\20181120_交九測試\DBMF原始碼\bin\Release\TBC.dll
+D:\107IDMS\20181120_交九測試\DBMF原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\107IDMS\20181120_交九測試\DBMF原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\107IDMS\20181120_交九測試\DBMF原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\107IDMS\20181120_交九測試\DBMF原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\bin\Release\ScadaDBMF.exe.config
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\obj\Release\ScadaDBMF.exe
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\bin\Release\ScadaDBMF.ini
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\bin\Release\ScadaDBMF.exe
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\bin\Release\SYS.dll
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\bin\Release\TBC.dll
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\obj\Release\ResolveAssemblyReference.cache
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\obj\Release\SCADA_RX.CCI_Form.resources
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\obj\Release\SCADA_RX.PortStatus.resources
+D:\107IDMS\光碟\02_程式模組新增\C_多重警訊\DBMF\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.exe.config
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\obj\Release\ScadaDBMF.exe
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.ini
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.exe
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\bin\Release\SYS.dll
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\bin\Release\TBC.dll
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\obj\Release\ResolveAssemblyReference.cache
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+C:\Users\e27416\Desktop\TEMP_EXE\Scada_系列\ScadaDBMF_20191225_氣象局新正式報告\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+C:\Users\peter\Desktop\ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.exe.config
+C:\Users\peter\Desktop\ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\ScadaDBMF.exe
+D:\ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\ScadaDBMF.exe
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.exe.config
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\ScadaDBMF.exe
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.ini
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.exe
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\SYS.dll
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\TBC.dll
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+C:\Documents and Settings\Administrator\桌面\ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.exe.config
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\ScadaDBMF.exe
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.ini
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\ScadaDBMF.exe
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\SYS.dll
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\bin\Release\TBC.dll
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\ResolveAssemblyReference.cache
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+C:\Users\e27416\Desktop\全楙ScadaDBMF_20191226_氣象局新正式報告\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\bin\Release\ScadaDBMF.exe.config
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\obj\Release\ScadaDBMF.exe
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\bin\Release\ScadaDBMF.ini
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\bin\Release\ScadaDBMF.exe
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\bin\Release\SYS.dll
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\bin\Release\TBC.dll
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+C:\Users\Administrator\Desktop\ScadaDBMF_20200715\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\obj\Release\ScadaDBMF.exe
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\bin\Release\ScadaDBMF.ini
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\bin\Release\ScadaDBMF.exe
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\bin\Release\SYS.dll
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\bin\Release\TBC.dll
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\obj\Release\ResolveAssemblyReference.cache
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\SFI\Source Code\SCADA\ScadaDBMF\測試區\ScadaDBMF_20200715_ESAO修改fnSetNhEVTDBMoveDataOneDay\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\ScadaDBMF.exe.config
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\ScadaDBMF.exe
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\ScadaDBMF.ini
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\ScadaDBMF.exe
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\SYS.dll
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\TBC.dll
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\ResolveAssemblyReference.cache
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+C:\Users\e27416\Desktop\警醒系統\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.Cache
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\ScadaDBMF.ini
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\ScadaDBMF.exe.config
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\ScadaDBMF.exe
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\SYS.dll
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\bin\Release\TBC.dll
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\ScadaDBMF.csprojAssemblyReference.cache
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\SCADA_RX.CCI_Form.resources
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\SCADA_RX.PortStatus.resources
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\ScadaDBMF.csproj.GenerateResource.cache
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\ScadaDBMF.csproj.CoreCompileInputs.cache
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\ScadaDBMF.csproj.CopyComplete
+D:\APP\DBMF\ScadaDBMF_20200907 警醒功能\原始碼\obj\Release\ScadaDBMF.exe
+D:\APP\DBMF\NH_ScadaDBMF\bin\Release\ScadaDBMF.ini
+D:\APP\DBMF\NH_ScadaDBMF\bin\Release\ScadaDBMF.exe.config
+D:\APP\DBMF\NH_ScadaDBMF\bin\Release\ScadaDBMF.exe
+D:\APP\DBMF\NH_ScadaDBMF\bin\Release\SYS.dll
+D:\APP\DBMF\NH_ScadaDBMF\bin\Release\TBC.dll
+D:\APP\DBMF\NH_ScadaDBMF\obj\Release\ScadaDBMF.csprojAssemblyReference.cache
+D:\APP\DBMF\NH_ScadaDBMF\obj\Release\SCADA_RX.CCI_Form.resources
+D:\APP\DBMF\NH_ScadaDBMF\obj\Release\SCADA_RX.PortStatus.resources
+D:\APP\DBMF\NH_ScadaDBMF\obj\Release\ScadaDBMF.csproj.GenerateResource.cache
+D:\APP\DBMF\NH_ScadaDBMF\obj\Release\ScadaDBMF.csproj.CoreCompileInputs.cache
+D:\APP\DBMF\NH_ScadaDBMF\obj\Release\ScadaDBMF.csproj.CopyComplete
+D:\APP\DBMF\NH_ScadaDBMF\obj\Release\ScadaDBMF.exe

@@ -1,0 +1,42 @@
+;LocName LocNum Comport BaudRate ByteSize Parity StopBits FlowControl ReadTimeout EncodingCode
+;   1      2       3      4         5       6       7          8          9 		10
+;----------------------------------------------------------------------------------------------
+;   1                 2   3         4 5   6  7  8  9  	10
+;NAME                31  COMX    9600 8 NONE 1 NO 30    950
+;
+;
+;ID.SCA.SGC_BLU_OPC_A 101 COM3    9600 8 NONE 1 NO 30 950
+;ID.SCA.SGC_BLU_OPC_B 102 COM4    9600 8 NONE 1 NO 30 950
+;ID.SCA.SGC_RGO_OPC_A 103 COM5    9600 8 NONE 1 NO 30 950
+;ID.SCA.SGC_RGO_OPC_B 104 COM6    9600 8 NONE 1 NO 30 950
+;ID.SCA.SGC_BLU_WS    105 COM7    1200 8 NONE 1 NO 30 950
+;ID.SCA.SGC_RGO_WS    106 COM8    1200 8 NONE 1 NO 30 950
+;ID.SCA.COM_RGO       107 COM9  115200 8 NONE 1 NO 30 950
+;ID.SCA.COM_BLU       108 COM10   9600 8 NONE 1 NO 30 950
+;ID.SCA.EQU_CWB	     109 COM11   9600 8 NONE 1 NO 30 950
+;ID.SCA.ECS           110 COM12   9600 8 NONE 1 NO 30 950
+;ID.SCA.PCB           111 COM13   9600 8 NONE 1 NO 30 950
+;ID.SCA.VDU           112 COM14   9600 8 NONE 1 NO 30 950
+;-------------------------------------------------------------------------------
+;Front End at MJ
+;
+;
+;ID.SCA.MJC_EVP1      121 COM3    9600 8 NONE 1 NO 30 950
+;ID.SCA.MJC_EVP2      122 COM4    9600 8 NONE 1 NO 30 950
+;ID.SCA.MJC_HOSTA_OPC 123 COM5    9600 8 NONE 1 NO 30 950
+;ID.SCA.MJC_HOSTB_OPC 124 COM6    9600 8 NONE 1 NO 30 950
+;ID.SCA.MJC_HOSTD_OPC 125 COM7    4800 8 NONE 1 NO 30 950
+;ID.SCA.MJC_HOSTC_OPC 126 COM8    4800 8 NONE 1 NO 30 950
+;ID.SCA.MJC_FRONT_A   127 COM9    9600 8 NONE 1 NO 30 950
+;ID.SCA.MJC_FRONT_B   128 COM10   9600 8 NONE 1 NO 30 950
+;ID.SCA.MJC_TEST_TRK  129 COM11   9600 8 NONE 1 NO 30 950
+;ID.SCA.MJC_WIND_PC   130 COM12   9600 8 NONE 1 NO 30 950
+;
+;------------------------------------------------------------------------------
+;Front End at PT
+;
+;
+;ID.SCA.PTB_RGO_OPC_4600 141 COM3    9600 8 NONE 1 NO 30 950
+;ID.SCA.PTB_BLU_VDU      142 COM4    9600 8 NONE 1 NO 30 950
+;ID.SCA.PTB_PCB          143 COM5    9600 8 NONE 1 NO 30 950
+;ID.SCA.PTB_RGO_WS       144 COM6    9600 8 NONE 1 NO 30 950
